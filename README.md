@@ -18,5 +18,5 @@
 
 ![Marcele's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelecarneiro&show_icons=true&theme=radical)
 
-### Right now, that's all folks! 😄
-### Please visit again to check my development! 🤝
+Right now, that's all folks! 😄
+Please visit again to check my development! 🤝
